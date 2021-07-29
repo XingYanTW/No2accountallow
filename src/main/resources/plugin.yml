@@ -1,0 +1,4 @@
+name: No2accountallow
+version: ${project.version}
+main: me.xingyan.no2accountallow.No2accountallow
+api-version: 1.17
